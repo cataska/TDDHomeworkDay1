@@ -9,6 +9,7 @@ namespace MyHomework1
     {
         public static IEnumerable<int> sum<T>(IEnumerable<T> xs, int groupSize, Func<T, int> func)
         {
+            // Fake implementation
             //return new int[] { 6, 15, 24, 21 };
             return new int[] { 50, 66, 60 };
         }
