@@ -76,6 +76,7 @@ namespace MyHomework1
             target.Add(new Product(9, 9, 19, 29));
             target.Add(new Product(10, 10, 20, 30));
             target.Add(new Product(11, 11, 21, 31));
+
             var expected = new int[] { 50, 66, 60 };
 
             //act
