@@ -22,7 +22,7 @@ namespace MyHomework1
         public void SumTest_Costs_GroupSize_3()
         {
             //arrange
-            var costs = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
+            var costs = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 };
             var expected = new int[] { 6, 15, 24, 21 };
             
             //act
